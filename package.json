@@ -1,6 +1,6 @@
 {
   "name": "markdownlint-rule-emphasis-style",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Markdownlint rule forcing consistent emphasis style.",
   "main": "rule.js",
   "keywords": [
