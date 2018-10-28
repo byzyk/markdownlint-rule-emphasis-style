@@ -1,6 +1,6 @@
 # markdownlint-rule-emphasis-style
 
-[`markdownlint`](https://github.com/DavidAnson/markdownlint) rule that forces consistency of emphasis style (**bold** or _italic_).
+> [`markdownlint`](https://github.com/DavidAnson/markdownlint) rule that forces consistency of emphasis style (**bold** or _italic_).
 
 ## Install
 
