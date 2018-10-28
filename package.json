@@ -1,0 +1,14 @@
+{
+  "name": "markdownlint-rule-emphasis-style",
+  "version": "0.0.1",
+  "description": "Markdownlint rule forcing consistent emphasis style.",
+  "main": "rule.js",
+  "keywords": [
+    "markdownlint",
+    "rule",
+    "md",
+    "emphasis"
+  ],
+  "author": "Bohdan Khodakivskyi <bohdan.kh@gmail.com>",
+  "license": "MIT"
+}
