@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Markdownlint rule forcing consistent emphasis style.",
   "main": "rule.js",
+  "scripts": {
+    "postversion": "git push && git push --tags"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/byzyk/markdownlint-rule-emphasis-style.git"
