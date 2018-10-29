@@ -3,12 +3,22 @@
   "version": "1.0.0",
   "description": "Markdownlint rule forcing consistent emphasis style.",
   "main": "rule.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byzyk/markdownlint-rule-emphasis-style.git"
+  },
   "keywords": [
     "markdownlint",
     "rule",
     "md",
-    "emphasis"
+    "emphasis",
+    "markdown",
+    "linter"
   ],
-  "author": "Bohdan Khodakivskyi <bohdan.kh@gmail.com>",
-  "license": "MIT"
+  "author": "Bohdan Khodakivskyi <bohdan.kh@gmail.com> (https://bohdan-khodakivskyi.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byzyk/markdownlint-rule-emphasis-style/issues"
+  },
+  "homepage": "https://github.com/byzyk/markdownlint-rule-emphasis-style#readme"
 }
